@@ -1,0 +1,16 @@
+---
+title: "about"
+author: "Saurabh Gupta"
+date: "10/10/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This Shiny application is part of the Developing Data Products Coursera course project <https://www.coursera.org/learn/data-products/>.
+
+We predict an iris flower species using a prediction model trained on the 'iris' databset. <https://en.wikipedia.org/wiki/Iris_flower_data_set>
+
+Submitted Oct 10, 2019.
